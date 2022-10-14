@@ -34,7 +34,6 @@ int findMin(int &n1, int &n2, int &n3)
 		if (nums[i] < min)
         {
             min = nums[i];
-			break;
         }
 	}
 	return min; 
