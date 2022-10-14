@@ -3,6 +3,7 @@
 using namespace std;
 
 void getInput(int &, int &, int &);
+void findMin(int &, int &, int &);
 void printResult(int &, int &, int &, int);
 
 // ******************************
